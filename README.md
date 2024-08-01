@@ -1,1 +1,1 @@
-![Repository Banner](images/kmeans.png)
+![Repository Banner](images/Kmean.png)
